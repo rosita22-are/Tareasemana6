@@ -18,8 +18,10 @@ El método hacer_sonido() es sobrescrito en la clase Perro, permitiendo comporta
 # Ejecución del Programa
 
 Para ejecutar el programa, asegúrese de tener Python instalado y ejecute el siguiente comando:
-python main.py
 
-Autor
+python main.py 
+
+Autor:
 Rosa Mgdalena Reyes Vasquez
+carrera:
 Tecnologuias de la Informacion 
